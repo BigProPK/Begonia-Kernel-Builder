@@ -1,9 +1,9 @@
-SukiSU-Ultra Commit ID: a255ea9d560d160c3c74859a714b80675947a955
-SukiSU-Ultra Commit Date: 2025-07-07T09:49:24Z
+SukiSU-Ultra Commit ID: 213a15cdb6899f9ba5b4d2e5a2dd3fe86fcf4a3d
+SukiSU-Ultra Commit Date: 2025-07-08T14:34:34Z
 
-KernelSU Commit ID: 74bef5bfcdc4c7e063a9569f71820ed84d9bfc9a
-KernelSU Commit Date: 2025-07-07T00:29:44Z
+KernelSU Commit ID: d13cc3ca8c949f60fefddbbe98ba2f6cdb124d2e
+KernelSU Commit Date: 2025-07-08T04:19:58Z
 
-KernelSU-Next Commit ID: 9b4c6057a033d8dafe6cb46b232940fdc7a76f19
-KernelSU-Next Commit Date: 2025-07-07T11:27:03Z
+KernelSU-Next Commit ID: 54b26fd32c90ec15fba5c87a4107a34918a66ed2
+KernelSU-Next Commit Date: 2025-07-08T16:00:14Z
 
